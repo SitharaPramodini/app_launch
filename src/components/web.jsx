@@ -43,7 +43,7 @@ const Web = () => {
             <div className="last">
               <p className="text-5xl">Aventura Cash App</p>
               <button className="shiny-cta">
-                <span>Click here to continue</span>
+                <a href='https://cashapp.hayleysaventura.com/#/'>Click here to continue</a>
               </button>
             </div>
           )}
