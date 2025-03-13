@@ -8,7 +8,7 @@ const Web = () => {
   };
 
   return (
-    <div className="container mx-auto">
+    <div className="content mx-auto w-full">
       {!videoPlayed ? (
         <video
           width="100%"
