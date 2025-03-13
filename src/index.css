@@ -45,7 +45,7 @@ body {
   box-sizing: border-box;
   position: relative;
 }
-
+/* 
 .content {
   perspective: 1200px;
   transform-style: preserve-3d;
@@ -67,7 +67,7 @@ body {
   75% {
     opacity: 1;
   }
-}
+} */
 
 
 
